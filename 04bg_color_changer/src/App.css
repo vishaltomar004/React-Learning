@@ -1,0 +1,116 @@
+.red-button{
+  background: red;
+  border-radius: 10px;
+  border : solid red 10px;
+  font-size: large;
+  color: aliceblue;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.outerdiv {
+  
+  
+  padding-bottom: 2px;
+  padding-top: 2px ;
+  padding-left: 2px;
+  position: fixed; 
+  bottom: 0;      
+   display: flex;
+  flex-wrap: wrap;           /* Next line par chala jaye */
+  justify-content: center;   /* Har line ke buttons ko center kare */
+  gap: 10px;                 /* Buttons ke beech spacing */
+  width: 80%;                /* Container width */
+  margin: 0 auto;            /* Page ke center me container */
+  border: 1px solid #ccc;    /* Just for visualization */
+  padding: 10px;
+  
+
+}
+.green-button{
+  background: green;
+  border-radius: 10px;
+  color: aliceblue;
+  border : solid green 10px;
+  font-size: large;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+    cursor: pointer;
+
+}
+.blue-button{
+  background: blue;
+  color: aliceblue;
+  border-radius: 10px;
+  border : solid blue 10px;
+  font-size: large;
+  gap: 3px;
+  align-items: center;
+    cursor: pointer;
+  justify-content: center;
+
+}
+.white-button{
+  background: white;
+  border-radius: 10px;
+  border : solid white 10px;
+  font-size: large;
+    cursor: pointer;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+
+}
+.black-button{
+  background: black;
+  color: aliceblue;
+    cursor: pointer;
+  border-radius: 10px;
+  border : solid black 10px;
+  font-size: large;
+  color: aliceblue;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+
+}
+.olive-button{
+  background: olive;
+  border-radius: 10px;
+    cursor: pointer;
+  color: aliceblue;
+  border : solid olive 10px;
+  font-size: large;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+
+}
+.brown-button{
+  background: brown;
+    cursor: pointer;
+  border-radius: 10px;
+  color: aliceblue;
+  border : solid brown 10px;
+  font-size: large;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.pink-button{
+  background: pink;
+  border-radius: 10px;
+  border : solid pink 10px;
+    cursor: pointer;
+  font-size: large;
+color: aliceblue;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+
+}
